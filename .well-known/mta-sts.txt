@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: mx3.mas.t-systems-service.com
+mx: mx2.mas.t-systems-service.com
+mx: mx1.mas.t-systems-service.com
+max_age: 604800
